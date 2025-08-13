@@ -1,0 +1,23 @@
+/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home/bin/java \
+  --class-path \
+  /Users/vivekmishra/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \
+  com.google.prefab.cli.AppKt \
+  --build-system \
+  cmake \
+  --platform \
+  android \
+  --abi \
+  armeabi-v7a \
+  --os-version \
+  24 \
+  --stl \
+  c++_shared \
+  --ndk-version \
+  27 \
+  --output \
+  /var/folders/4t/x5tysykn393c33v5842m_5h80000gn/T/agp-prefab-staging16719600261272419665/staged-cli-output \
+  /Users/vivekmishra/.gradle/caches/8.14.3/transforms/eb6d09c91acf843499bdca80e0a66fd6/transformed/react-android-0.81.0-debug/prefab \
+  /Users/vivekmishra/Desktop/VivekProj/CityPulseTS/android/app/build/intermediates/cxx/refs/react-native-reanimated/2c5o3066 \
+  /Users/vivekmishra/Desktop/VivekProj/CityPulseTS/android/app/build/intermediates/cxx/refs/react-native-worklets/3o1p5t70 \
+  /Users/vivekmishra/.gradle/caches/8.14.3/transforms/5d0a1bdcc2c5d492e0409f1745c7c8f4/transformed/hermes-android-0.81.0-debug/prefab \
+  /Users/vivekmishra/.gradle/caches/8.14.3/transforms/a18451f415b73841e30da63b3d9805af/transformed/fbjni-0.7.0/prefab

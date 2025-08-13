@@ -1,0 +1,8 @@
+ninja: Entering directory `/Users/vivekmishra/Desktop/VivekProj/CityPulseTS/android/app/.cxx/Debug/2c22t166/armeabi-v7a'
+[0/2] Re-checking globbed directories...
+[1/2] Re-running CMake...
+-- Configuring incomplete, errors occurred!
+See also "/Users/vivekmishra/Desktop/VivekProj/CityPulseTS/android/app/.cxx/Debug/2c22t166/armeabi-v7a/CMakeFiles/CMakeOutput.log".
+See also "/Users/vivekmishra/Desktop/VivekProj/CityPulseTS/android/app/.cxx/Debug/2c22t166/armeabi-v7a/CMakeFiles/CMakeError.log".
+FAILED: build.ninja 
+/Users/vivekmishra/Library/Android/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/vivekmishra/Desktop/VivekProj/CityPulseTS/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup -B/Users/vivekmishra/Desktop/VivekProj/CityPulseTS/android/app/.cxx/Debug/2c22t166/armeabi-v7a
